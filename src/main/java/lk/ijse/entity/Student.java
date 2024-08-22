@@ -6,7 +6,7 @@ import jakarta.persistence.Table;
 import lk.ijse.embed.FullName;
 
 @Entity
-//@Table(name = "test")
+//@Table(name = "students")
 public class Student {
     @Id
     private int id;
